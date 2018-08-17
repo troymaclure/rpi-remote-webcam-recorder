@@ -1,0 +1,13 @@
+{
+  "home": "/home/pi/videos/",
+  "resolution": {
+    "width" : 420,
+    "height" : 240
+  },
+  "framerate" : 10,
+  "timestamp" : 1,
+  "videolength": 30,
+  "cameraname": "cam1",
+  "mailaddress": "stephpipipi@gmail.com",
+  "mailpassword": "justapassword"
+}
